@@ -2,4 +2,4 @@
 
 https://schnitzelsällskapet.se
 
-![Schnitzel](https://github.com/PatrikElfstrom/schnitzelsallskapet/blob/master/schnitzel.png?raw=true)
+![Schnitzel](https://raw.githubusercontent.com/PatrikElfstrom/schnitzelsallskapet/master/schnitzel.webp)
